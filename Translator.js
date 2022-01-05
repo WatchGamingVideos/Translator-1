@@ -1,10 +1,3 @@
-// Last time updated at Dec 31, 2016, 10:54:23
-
-// Muaz Khan      - www.MuazKhan.com
-// MIT License    - www.WebRTC-Experiment.com/licence
-
-// Source Code    - github.com/muaz-khan/Translator
-// Demo           - www.webrtc-experiment.com/Translator
 
 function Translator() {
     this.voiceToText = function(callback, language) {
