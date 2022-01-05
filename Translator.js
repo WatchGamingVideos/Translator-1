@@ -247,5 +247,5 @@ function Translator() {
         }
     };
     
-    var Google_Translate_API_KEY = 'AIzaSyCgB5hmFY74WYB-EoWkhr9cAGr6TiTHrEE';
+ 
 }
